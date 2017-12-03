@@ -9,3 +9,5 @@ Get profit information about your cryptocurrency investments
 - In index.js, add a new transaction or modify the sample ones
 - Via terminal locate the root of the repo and run **npm start**
 
+## result
+![alt text](https://user-images.githubusercontent.com/4924744/33527291-4a48fecc-d835-11e7-9752-b6d2aaaffaba.png)
