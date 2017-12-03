@@ -6,7 +6,8 @@ Get profit information about your cryptocurrency investments
 - NPM (v5.5.1 or higher)
 
 ## setup
-- In index.js, add a new transaction or modify the sample ones
+- Run **npm install** to install node dependencies.
+- In index.js, add your transactions or modify the sample ones
 - Via terminal locate the root of the repo and run **npm start**
 
 ## result
