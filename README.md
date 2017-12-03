@@ -2,10 +2,12 @@
 Get profit information about your cryptocurrency investments
 
 ## prerequisites
+Make sure to have installed in your machine:
 - Node JS (v8.2.0 or higher) 
 - NPM (v5.5.1 or higher)
 
 ## setup
+- Clone the repo and locate the root folder via Terminal
 - Run **npm install** to install node dependencies.
 - In index.js, add your transactions or modify the sample ones
 - Via terminal locate the root of the repo and run **npm start**
